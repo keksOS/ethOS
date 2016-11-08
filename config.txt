@@ -29,4 +29,4 @@ globaldriver amdgpu
 
 custompanel keksOS123456
 
-#loc 0f3742 KEKSO_1
+loc 0f3742 KEKSO_1
