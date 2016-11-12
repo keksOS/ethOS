@@ -29,6 +29,7 @@ pwr 0f3742 4 4 4 4 4 4
 
 custompanel keksOS123456
 loc 0f3742 KEX1
+loc 0123af DVICA
 loc 0f3280 KEX2
 loc 0f3282 KEX3
 loc 0f31f3 KEX4
