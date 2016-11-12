@@ -11,8 +11,8 @@ stratumproxy miner
 
 #//MINING ZEC
 proxywallet t1ZRJpoyMrjSrCfhtQuKDHJSibAEHox5yFc
-proxypool1 zec-eu1.nanopool.org:6666
-proxypool2 zec-eu2.nanopool.org:6666
+proxypool1 zec-eu2.nanopool.org:6666
+proxypool2 zec-eu1.nanopool.org:6666
 #proxypool1 eu1-zcash.flypool.org:3333
 #proxypool2 eu2-zcash.flypool.org:3333
 
