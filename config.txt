@@ -28,6 +28,7 @@ proxypool2 zec-eu2.nanopool.org:6666
 
 
 custompanel keksos123456
+loc 0123ab kopac04
 loc 0f3280 kopac05
 loc 0f3742 kopac06
 loc 0123af kopac09
