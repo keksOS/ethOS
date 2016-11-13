@@ -23,7 +23,7 @@ proxypool2 zec-eu2.nanopool.org:6666
 
 #flags --cl-global-work 8192 --farm-recheck 200
 #flg 0f3742 --cl-global-work 16384 --farm-recheck 200
-pwr 0f3742 4 4 4 4 4 4
+#pwr 0f3742 4 4 4 4 4 4
 
 
 
