@@ -35,3 +35,4 @@ loc 0f31f3 kopac4
 loc 0f2fc8 kopac5
 loc 0f313f kopac6
 loc 0f31d9 kopac7
+loc 0f3280 kopac13 
