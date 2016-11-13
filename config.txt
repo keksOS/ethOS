@@ -27,7 +27,7 @@ pwr 0f3742 4 4 4 4 4 4
 
 
 
-custompanel kopac123456
+custompanel kopaci123456
 loc 0f2fd0 kopac1
 loc 0123af kopac2
 loc 0f3282 kopac3
