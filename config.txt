@@ -29,3 +29,4 @@ pwr 0f3742 4 4 4 4 4 4
 
 custompanel keksos123456
 loc 0f2fd0 kopac10
+loc 0f31f3 kopac12
