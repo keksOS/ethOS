@@ -6,7 +6,7 @@ maxgputemp 85
 #globalminer claymore
 globalminer zcash-miner
 
-stratumproxy miner
+#stratumproxy miner
 #stratumproxy enable
 
 #//MINING ZEC
