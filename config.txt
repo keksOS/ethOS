@@ -1,6 +1,6 @@
 globaldriver amdgpu
 globalfan 75
-maxgputemp 85
+maxgputemp 87
 
 #globalminer sgminer-gm
 #globalminer claymore
