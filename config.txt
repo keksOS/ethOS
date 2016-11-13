@@ -32,3 +32,4 @@ loc 0123af kopac09
 loc 0f2fd0 kopac10
 loc 0f3282 kopac11
 loc 0f31f3 kopac12
+loc 0f2fc8 kopac13
