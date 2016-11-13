@@ -27,14 +27,11 @@ pwr 0f3742 4 4 4 4 4 4
 
 
 
-custompanel keksOS123456
-#loc 0f3742 KEX1
-#loc 0123af DVICA
-#loc 0f3280 KEX2
-#loc 0f3282 KEX3
-#loc 0f31f3 KEX4
-#loc 0f2fc8 KEX5
-#loc 0f313f KEX6
-#loc 0123ab KEX7
-#loc 0f321b KEX8
-
+custompanel kopaciS123456
+loc 0f2fd0 kopac1
+loc 0123af kopac2
+loc 0f3282 kopac3
+loc 0f31f3 kopac4
+loc 0f2fc8 kopac5
+loc 0f313f kopac6
+loc 0f31d9 kopac7
