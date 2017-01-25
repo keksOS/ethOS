@@ -26,7 +26,7 @@ proxypool2 eu2.ethermine.org:14444
 #flg 0f3742 --cl-global-work 16384 --farm-recheck 200
 
 pwr 9bd73e 7 7 7 7 7 7
-pwr 0f31f3 4 4 4 4 4 4
+pwr 0f31f3 5 5 5 5 5 5
 pwr 0f2fc8 7 7 7 7 7 7
 pwr 0f313f 7 7 7 7 7 7
 pwr 9bdacb 7 7 7 7 7 7
