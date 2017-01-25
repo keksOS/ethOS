@@ -5,7 +5,7 @@ maxgputemp 87
 #globalminer sgminer-gm
 #globalminer claymore
 #globalminer zcash-miner
-#globalminer optiminer-zcash
+globalminer optiminer-zcash
 
 #stratumproxy miner
 #stratumproxy enable
