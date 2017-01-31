@@ -2,8 +2,8 @@ globaldriver amdgpu
 globalfan 75
 maxgputemp 87
 
-#globalminer sgminer-gm
-globalminer claymore
+globalminer sgminer-gm
+#globalminer claymore
 #globalminer zcash-miner
 #globalminer optiminer-zcash
 
