@@ -19,8 +19,9 @@ globalminer sgminer-gm
 
 #//MINING ETH
 proxywallet 0x427822DF3e07A228bcDfb6A6E79Fb16C09a1A3CD
-proxypool1 eu2.ethermine.org:4444
-proxypool2 eu2.ethermine.org:14444
+proxypool1 eu1.ethpool.org:3333
+#proxypool1 eu2.ethermine.org:4444
+#proxypool2 eu2.ethermine.org:14444
 
 #flags --cl-global-work 8192 --farm-recheck 200
 #flg 0f3742 --cl-global-work 16384 --farm-recheck 200
